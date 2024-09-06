@@ -1,2 +1,2 @@
-## Aeminium Prject - Curricula Knowledge Evaluator
+## Aeminium Project - Curricula Knowledge Evaluator
 
